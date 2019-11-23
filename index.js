@@ -1,10 +1,10 @@
 'use strict';
 const EZE = require('ez-email');
 
-const group = ['replacethisEmail@gmail.com'];
+const group = [process.env.EMAIL];
 
 const email = {
-  message: 'hello from eze!',
+  message: 'An email from EZE :)',
   subject: 'EZE message'
 };
 
