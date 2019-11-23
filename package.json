@@ -15,6 +15,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ez-email": "^1.0.4"
+    "ez-email": "^1.0.5"
   }
 }
